@@ -1,8 +1,6 @@
 
 Bhargav first checkin
 
-Second branch added to same repo
-
-Second 2 branch added to same repo
+First time change after abort
 
 # best-repo-ever
